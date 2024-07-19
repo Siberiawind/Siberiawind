@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Interested in C/C++ projects
+- 🔭 Interested in DirectX related projects
+- 🌱 Currently dedicated to desktop streaming works on Windows, things that I did in the past half year involve with:
+  - VDisplay Management
+  - Streaming Framework
