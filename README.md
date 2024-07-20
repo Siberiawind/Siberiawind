@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 Interested in graphics and codec related projects
 - 🌱 Currently I have a full-time job involves with desktop streaming on Windows, in the past half year I mainly focused on these parts:
   - VDisplay Management
-  - Streaming Framework
+  - Streaming Pipeline Optimization
