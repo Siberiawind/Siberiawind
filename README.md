@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Interested in graphics and codec related projects
-- 🌱 Currently I have a full-time job involves with desktop streaming on Windows, in the past half year I mainly focused on these parts:
-  - VDisplay Management
-  - Streaming Pipeline Optimization
+- 🌱 Currently I have a full-time job involved with desktop streaming on Windows, I mainly work on these fields:
+  - Display Driver development (WDDM)
+  - Video Codecs (ffmpeg/x264 mod, use of HW Video Codec SDKs)
+- ⚡ Next goals in this year, I will take part in these subjects:
+  - use of IDD
+  - use of DXVA/D3d11 HWDec APIs
