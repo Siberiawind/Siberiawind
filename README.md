@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 Interested in graphics and codec related projects
 - 🌱 Currently I have a full-time job involved with desktop streaming on Windows, I mainly work on these fields:
-  - Display Driver development (WDDM)
-  - Video Codecs (ffmpeg/x264 mod, use of HW Video Codec SDKs)
+  - Display Driver development (WDDM functioning / IDD functioning)
+  - Video Codecs (ffmpeg/x264 mod, DXVA/D3D11 HWDec APIs, fine tuning with Video Codec SDKs)
 - ⚡ Next goals in this year, I will take part in these subjects:
-  - use of IDD
-  - use of DXVA/D3d11 HWDec APIs
+  - OnScreen Demo, D3D11 native APIs, higher-level APIs, like SDL3, IMGUI..
+  - More experiments with coding tools in x264/x265/dav1d/aom
