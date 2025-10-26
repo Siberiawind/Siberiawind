@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Interested in graphics and codec related projects
-- 🌱 Currently I have a full-time job involved with desktop streaming on Windows, I mainly work on these fields:
-  - Display Driver development (WDDM / IDD features)
+- 🔭 Interested in Graphics and Codecs related projects, GPU Virtualization, Networking ...
+- 🌱 Currently I have a full-time job involved with desktop streaming on Windows, I mainly work on:
+  - Different streaming policies development
+  - Display driver (WDDM / IDD) features development
   - Video Codecs fine tuning (ffmpeg/x264 features, decoding accelerated by DXVA2/D3D11 APIs, third-party Video Codec SDKs Integration)
-- ⚡ Next goals in this year, I will take part in these subjects:
+- ⚡ Next goals in this year, I would like to take part in these subjects:
   - OnScreen Demo, D3D11 native APIs, higher-level APIs, like SDL3, IMGUI..
   - More experiments with coding tools in x264/x265/dav1d/aom
